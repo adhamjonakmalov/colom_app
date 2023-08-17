@@ -2,7 +2,10 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: Container(),
+    home: Container(
+      color: Colors.white,
+      
+    ),
   ));
 }
 
